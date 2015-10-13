@@ -1,0 +1,13 @@
+Precondition: everything is already at home
+
+Take beans
+Take grinder
+Grind beans
+Get the brewing basket
+Place the filter in the brewing basket
+Add grinded beans
+Make water cooking 
+Pour the cooking water slowly in basket with the grinded beans
+If no water drops out of the basket
+Coffee is ready
+Enjoy!
