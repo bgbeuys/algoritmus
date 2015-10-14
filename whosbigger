@@ -1,0 +1,11 @@
+puts "Welcome to see which number is bigger. \n\n"
+puts "Please type a number. \n\n"
+
+number = gets
+
+puts "Awesome! Now please type another number."
+
+number = gets
+
+if number
+
